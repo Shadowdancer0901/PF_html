@@ -1,0 +1,29 @@
+.navbar ul{
+list-style-type: none;
+    background-color: #2A3439;
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding: 15px;
+}
+.navbar a:hover{
+    background-color: #181E22;
+}
+body{
+    background: #c31432;
+    background: -webkit-linear-gradient(to left, #240b36, #c31432);
+    background: linear-gradient(to left, #240b36, #c31432);
+    margin: 0px;
+}
+
+.navbar li{
+    float: left;
+}
