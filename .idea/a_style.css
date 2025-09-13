@@ -27,3 +27,13 @@ body{
 .navbar li{
     float: left;
 }
+
+h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.Massoud{
+    margin: 15px;
+}
