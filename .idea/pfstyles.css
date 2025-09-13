@@ -33,5 +33,11 @@ body{
     display: flex;
     justify-content: space-around;
     padding-bottom: 5px;
-
+}
+.links a{
+    text-decoration: none;
+    color: dimgray;
+}
+h3{
+    padding-left: 15px;
 }
