@@ -7,8 +7,31 @@
     rgba(133, 41, 30, 1) 69%,
     rgba(176, 65, 53, 1) 80%,
     rgba(255, 165, 153, 1) 94%);
+
+}
+.portfolio{
     color: gray;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 10px;
 }
 body{
     font-family: Story Script;
+    margin: 0px;
+}
+.hi{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+.intro{
+    display: flex;
+    justify-content: center;
+}
+
+.links{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 5px;
+
 }
